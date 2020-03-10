@@ -1476,4 +1476,9 @@ body.is-preload #footer {
   justify-content: center;
 }
 
+.contact-title {
+  display: flex;
+  justify-content: left;
+}
+
 /*# sourceMappingURL=main.css.map */
